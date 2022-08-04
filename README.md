@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&&&color=A5d5cc&height=400&section=header&text=Lee%20Hyun%20Min&fontSize=120&animation=scaleIn&fontColor=ceec90)
+![header](https://capsule-render.vercel.app/api?type=Soft&&&color=A5d5cc&height=400&section=header&text=Lee%20Hyun%20Min&fontSize=120&animation=twinkling&fontColor=ceec90)
 
 __📬EMAIL📬__<br/>
 hmlee4135@naver.com<br/>
