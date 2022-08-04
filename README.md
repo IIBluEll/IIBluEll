@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Soft&&&color=gradient&customColorList=1,5,2,5,40&height=200&section=header&text=Lee%20Hyun%20Min&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&&&color=gradient&customColorList=1,5,2,5,30&height=200&section=header&text=Lee%20Hyun%20Min&fontSize=90)
 
 </div>
 
