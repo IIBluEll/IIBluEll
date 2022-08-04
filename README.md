@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=A5d5cc&height=400&section=header&text=Lee%20Hyun%20Min&fontSize=90&animation=scaleIn&fontColor=ceec90)
 <br/><br/>
-__📬EMAIL📬__
+__📬EMAIL📬__<br/>
 hmlee4135@naver.com<br/><br/>
 
 반갑습니다! 👏👏<br/>
