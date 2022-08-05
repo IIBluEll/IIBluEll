@@ -6,7 +6,7 @@
 __📬𝐸𝑀𝒜𝐼𝐿📬__<br/>
 hmlee4135@naver.com<br/>
 
-반갑습니다! 👏👏 <br/>
+반갑습니다! <br/>
 제 이름은 이현민이고, 현재 게임 개발을 공부하고 있습니다. <br/>
 아직 많이 부족하지만 최선을 다하겠습니다!<br/><br/><br/>
   
@@ -19,10 +19,11 @@ hmlee4135@naver.com<br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IIBluEll&show_icons=true&include_all_commits=true&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIBluEll&layout=compact&bg_color=30,B8D0C5,8FCCBA&title_color=fff&text_color=fff">
 </p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=IIBluEll)](https://github.com/ryo-ma/github-profile-trophy)
-
-# ⚙️𝐌𝐲 𝐒𝐭𝐚𝐜𝐤𝐬⚙️
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=IIBluEll)](https://github.com/ryo-ma/github-profile-trophy) <br/><br/>
+  
+![마이스택](https://user-images.githubusercontent.com/19919570/183019863-f740d7ae-b0c7-4ec8-a474-30d4ab04495e.png)
+---
+  
 ![꺽쇠](https://user-images.githubusercontent.com/19919570/183018791-880784da-927b-4243-9544-992bcf2a6aa9.png) __ɢᴀᴍᴇ ᴇɴɢɪɴᴇ__ ![꺽쇠2](https://user-images.githubusercontent.com/19919570/183019389-e5d23ae0-d48d-4826-9f41-894ebc9b1a3d.png)
  <br/><br/>
 ![Unity](https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=Unity&logoColor=white)&nbsp;![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white) &nbsp;![CoCos2D](https://img.shields.io/badge/CoCos-55C2E1?style=for-the-badge&logo=CoCos&logoColor=white) <br/>
