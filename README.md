@@ -8,16 +8,18 @@ hmlee4135@naver.com<br/>
 
 반갑습니다! 👏👏 <br/>
 제 이름은 이현민이고, 현재 게임 개발을 공부하고 있습니다. <br/>
-아직 많이 부족하지만 최선을 다하겠습니다!<br/>
-
-  # 💾𝐆𝐢𝐭 𝐏𝐫𝐨𝐟𝐢𝐥𝐞💾
+아직 많이 부족하지만 최선을 다하겠습니다!<br/><br/><br/>
   
-__📌Visit Count__<br/>
+  ![GitProfile](https://user-images.githubusercontent.com/19919570/183016384-17fa8e59-6240-47d1-97cf-8809fbdb607b.png)
+  ---
+__📌Visit Count__<br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIIBluEll&count_bg=%239BCFC7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/><br/>
 __📅Git_Status__<br/>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IIBluEll&show_icons=true&include_all_commits=true&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIBluEll&layout=compact&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IIBluEll&show_icons=true&include_all_commits=true&bg_color=30,8FCCBA,B8D0C5&title_color=fff&text_color=fff"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIBluEll&layout=compact&bg_color=30,B8D0C5,8FCCBA&title_color=fff&text_color=fff">
 </p>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=IIBluEll)](https://github.com/ryo-ma/github-profile-trophy)
 
 # ⚙️𝐌𝐲 𝐒𝐭𝐚𝐜𝐤𝐬⚙️
 
