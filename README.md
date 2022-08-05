@@ -27,8 +27,10 @@ __💡ɢᴀᴍᴇ ᴇɴɢɪɴᴇ__<br/><br/>
 __💡ʟᴀɴɢᴜᴀɢᴇ__<br/><br/>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white) &nbsp;![MarkDown](https://img.shields.io/badge/Mark%20Down-000000?style=for-the-badge&logo=Markdown&logoColor=white) <br/>
 
-__참고 블로그 :__ <https://kimasill.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0> <br/>
-  __Head 캡슐렌더 :__ <https://github.com/kyechan99/capsule-render#color><br/>
-  __GitStatus :__ <https://github.com/anuraghazra/github-readme-stats#common-options><br/>
+  </div>
   
-</div>
+__참고 블로그 :__ <https://kimasill.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0> <br/><br/>
+__Head 캡슐렌더 :__ <https://github.com/kyechan99/capsule-render#color><br/><br/>
+__GitStatus :__ <https://github.com/anuraghazra/github-readme-stats#common-options><br/>
+  
+
