@@ -30,7 +30,8 @@ __💡ʟᴀɴɢᴜᴀɢᴇ__<br/><br/>
   </div>
   
 __참고 블로그 :__ <https://kimasill.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0> <br/><br/>
-__Head 캡슐렌더 :__ <https://github.com/kyechan99/capsule-render#color><br/><br/>
-__GitStatus :__ <https://github.com/anuraghazra/github-readme-stats#common-options><br/>
-  
+__Head 캡슐렌더 :__ <https://github.com/kyechan99/capsule-render#color> <br/><br/>
+__GitStatus :__ <https://github.com/anuraghazra/github-readme-stats#common-options> <br/><br/>
+__shields.io :__ <https://shields.io/> <br/><br/>
+__Simple Icons :__ <https://simpleicons.org/> <br/><br/>
 
