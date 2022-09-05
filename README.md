@@ -8,7 +8,6 @@ hmlee4135@naver.com<br/>
 
 반갑습니다! <br/>
 제 이름은 이현민이고, 현재 게임 개발을 공부하고 있습니다. <br/>
-아직 많이 부족하지만 최선을 다하겠습니다!<br/><br/><br/>
   
   ![GitProfile](https://user-images.githubusercontent.com/19919570/183016384-17fa8e59-6240-47d1-97cf-8809fbdb607b.png)
   ---
