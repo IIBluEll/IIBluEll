@@ -47,7 +47,7 @@ __through Unity and Unreal Engine skills.__ <br/>
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/Team5DD)
-
+---
 </div>
 </details>
 
@@ -62,7 +62,7 @@ __Youtube Link__<br/><br/>
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/TeamTreeBox)
- 
+ ---
 </div>
 </details>
 
@@ -77,7 +77,7 @@ __Youtube Link__<br/><br/>
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/IIBluEll/CrazArade)
- 
+ ---
 </div>
 </details>
 
@@ -92,7 +92,7 @@ __Youtube Link__<br/><br/>
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
 [Github Page](https://github.com/VRProjectHorror/VR_HorrorGame_Graduation)
- 
+ ---
 </div>
 </details>
 
@@ -107,7 +107,7 @@ __Youtube Link__<br/><br/>
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
 [Github Page](https://github.com/BeanPocket/AR_Jack_beanstalk)
- 
+ ---
 </div>
 </details>
 
