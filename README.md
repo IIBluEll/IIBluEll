@@ -40,7 +40,8 @@ __through Unity and Unreal Engine skills.__ <br/>
 #### 1. MetatoyDragonz Adventure
 
  [![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs)
-
+ <br/>🔼<br/>
+__Youtube Link__<br/><br/>
  [Github Page](https://github.com/Team5DD)
 
 ---
@@ -48,7 +49,8 @@ __through Unity and Unreal Engine skills.__ <br/>
 #### 2. EverBreeze
 
 [![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs)
-
+ <br/>🔼<br/>
+__Youtube Link__<br/><br/>
  [Github Page](https://github.com/TeamTreeBox)
 
 ---
@@ -56,7 +58,8 @@ __through Unity and Unreal Engine skills.__ <br/>
 #### 3. TerzilRang_Mallang
 
 [![Video Label](http://img.youtube.com/vi/mnLeVaGUZx0/0.jpg)](https://youtu.be/mnLeVaGUZx0)
-
+ <br/>🔼<br/>
+__Youtube Link__<br/><br/>
  [Github Page](https://github.com/IIBluEll/CrazArade)
 
 ---
@@ -64,7 +67,8 @@ __through Unity and Unreal Engine skills.__ <br/>
  #### 4. Graduation
 
 [![Video Label](http://img.youtube.com/vi/WWuMLB3t5KA/0.jpg)](https://youtu.be/WWuMLB3t5KA)
-
+ <br/>🔼<br/>
+__Youtube Link__<br/><br/>
 [Github Page](https://github.com/VRProjectHorror/VR_HorrorGame_Graduation)
 
 ---
@@ -72,8 +76,9 @@ __through Unity and Unreal Engine skills.__ <br/>
 #### 5. AR_Jack&BeanStalk
 
 
-[![Video Label](http://img.youtube.com/vi/dYrJfyiJd_M/0.jpg)](https://youtu.be/dYrJfyiJd_M) <- Youtube Link
-
+[![Video Label](http://img.youtube.com/vi/dYrJfyiJd_M/0.jpg)](https://youtu.be/dYrJfyiJd_M) 
+ <br/>🔼<br/>
+__Youtube Link__<br/><br/>
 [Github Page](https://github.com/BeanPocket/AR_Jack_beanstalk)
 
   </div>
