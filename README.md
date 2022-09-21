@@ -33,7 +33,7 @@ hmlee4135@naver.com<br/>
 ![꺽쇠](https://user-images.githubusercontent.com/19919570/183018791-880784da-927b-4243-9544-992bcf2a6aa9.png) __Cooperative Tool__ ![꺽쇠2](https://user-images.githubusercontent.com/19919570/183019389-e5d23ae0-d48d-4826-9f41-894ebc9b1a3d.png) <br/><br/>
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)&nbsp;![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)&nbsp;
   
-  
+---
 # Introduce My representative Portfolio
 
 ### 1. MetatoyDragonz Adventure
@@ -42,6 +42,7 @@ hmlee4135@naver.com<br/>
 
  [Github Page](https://github.com/Team5DD)
 
+---
 
 ### 2. EverBreeze
 
@@ -49,6 +50,7 @@ hmlee4135@naver.com<br/>
 
  [Github Page](https://github.com/TeamTreeBox)
 
+---
 
   </div>
   
