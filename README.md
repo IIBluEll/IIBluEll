@@ -64,7 +64,7 @@ __Youtube Link__<br/><br/>
 
 ---
 
- #### 4. Graduation
+ #### 4. VR_Horro Game [Graduation]
 
 [![Video Label](http://img.youtube.com/vi/WWuMLB3t5KA/0.jpg)](https://youtu.be/WWuMLB3t5KA)
  <br/>🔼<br/>
@@ -73,7 +73,7 @@ __Youtube Link__<br/><br/>
 
 ---
 
-#### 5. AR_Jack&BeanStalk
+#### 5. AR Educational Game [Jack&BeanStalk]
 
 
 [![Video Label](http://img.youtube.com/vi/dYrJfyiJd_M/0.jpg)](https://youtu.be/dYrJfyiJd_M) 
