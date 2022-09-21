@@ -53,7 +53,6 @@ __Youtube Link__<br/><br/>
 
 <br/>
 
----
 
 <details>
 <summary>2. EverBreeze</summary>
@@ -69,7 +68,6 @@ __Youtube Link__<br/><br/>
 
 <br/>
 
----
 
 <details>
 <summary>3. TerzilRang_Mallang</summary>
@@ -85,7 +83,6 @@ __Youtube Link__<br/><br/>
 
 <br/>
 
----
 
 <details>
 <summary>4. VR_Horro Game [Graduation]</summary>
@@ -101,7 +98,6 @@ __Youtube Link__<br/><br/>
 
 <br/>
 
----
 
 <details>
 <summary>5. AR Educational Game [Jack&BeanStalk]</summary>
@@ -117,4 +113,3 @@ __Youtube Link__<br/><br/>
 
   </div>
 
-  ---
