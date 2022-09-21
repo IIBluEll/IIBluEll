@@ -37,48 +37,84 @@ __through Unity and Unreal Engine skills.__ <br/>
 ---
 ## Introduce My representative Portfolio
 
-#### 1. MetatoyDragonz Adventure
+<br/>
 
- [![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs)
+<details>
+<summary>1. MetatoyDragonz Adventure</summary>
+<div markdown="1">
+
+[![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs) 
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/Team5DD)
 
+</div>
+</details>
+
+<br/>
+
 ---
 
-#### 2. EverBreeze
+<details>
+<summary>2. EverBreeze</summary>
+<div markdown="1">
 
 [![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs)
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/TeamTreeBox)
+ 
+</div>
+</details>
+
+<br/>
 
 ---
 
-#### 3. TerzilRang_Mallang
+<details>
+<summary>3. TerzilRang_Mallang</summary>
+<div markdown="1">
 
 [![Video Label](http://img.youtube.com/vi/mnLeVaGUZx0/0.jpg)](https://youtu.be/mnLeVaGUZx0)
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/IIBluEll/CrazArade)
+ 
+</div>
+</details>
+
+<br/>
 
 ---
 
- #### 4. VR_Horro Game [Graduation]
+<details>
+<summary>4. VR_Horro Game [Graduation]</summary>
+<div markdown="1">
 
 [![Video Label](http://img.youtube.com/vi/WWuMLB3t5KA/0.jpg)](https://youtu.be/WWuMLB3t5KA)
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
 [Github Page](https://github.com/VRProjectHorror/VR_HorrorGame_Graduation)
+ 
+</div>
+</details>
+
+<br/>
 
 ---
 
-#### 5. AR Educational Game [Jack&BeanStalk]
-
+<details>
+<summary>5. AR Educational Game [Jack&BeanStalk]</summary>
+<div markdown="1">
 
 [![Video Label](http://img.youtube.com/vi/dYrJfyiJd_M/0.jpg)](https://youtu.be/dYrJfyiJd_M) 
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
 [Github Page](https://github.com/BeanPocket/AR_Jack_beanstalk)
+ 
+</div>
+</details>
 
   </div>
+
+  ---
