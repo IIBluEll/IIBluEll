@@ -7,7 +7,7 @@ __📬𝐸𝑀𝒜𝐼𝐿📬__<br/>
 hmlee4135@naver.com<br/>
 
 __Hi! My name is Hyun Min Lee__ <br/>
-__I am dreaming of becoming a game developer__ <br/>
+__I am dreaming of becoming game developer__ <br/>
 __through Unity and Unreal Engine skills.__ <br/>
   
   ![GitProfile](https://user-images.githubusercontent.com/19919570/183016384-17fa8e59-6240-47d1-97cf-8809fbdb607b.png)
