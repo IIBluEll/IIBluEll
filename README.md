@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:8FCCBA,100:B8D0C5&height=250&section=header&text=Lee%20Hyun%20Min&fontSize=120&animation=twinkling&fontColor=ceec90)
 
+![MyPictrue](https://user-images.githubusercontent.com/19919570/194770065-7c794bb9-cdde-4eef-b6c3-1a2707eee640.jpg)
   
 __📬𝐸𝑀𝒜𝐼𝐿📬__<br/>
 hmlee4135@naver.com<br/>
