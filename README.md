@@ -61,7 +61,7 @@ __Youtube Link__<br/><br/>
 <summary>2. EverBreeze</summary>
 <div markdown="1">
 
-[![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs)
+[![Video Label](http://img.youtube.com/vi/7IEP7cXD16U/0.jpg)](https://youtu.be/7IEP7cXD16U)
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/TeamTreeBox)
