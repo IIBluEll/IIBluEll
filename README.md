@@ -8,11 +8,11 @@
 
 ---
 <br/>
-  <a href="https://github.com/IIBluEll"><img width="50px" alt="GitHub" title="GitHub Blog" src="https://user-images.githubusercontent.com/87287709/193750506-21b7d99b-431f-4e19-bb08-558fa65a0ce8.png"/></a>
+  <a href="https://github.com/IIBluEll"><img width="100px" alt="GitHub" title="GitHub Page" src="https://user-images.githubusercontent.com/87287709/193750506-21b7d99b-431f-4e19-bb08-558fa65a0ce8.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:hmlee4135@naver.com"><img width="50px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/193750295-b367eb8a-8306-4357-82fb-c814a80a10ae.png"/></a>
+  <a href="mailto:hmlee4135@naver.com"><img width="100px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/193750295-b367eb8a-8306-4357-82fb-c814a80a10ae.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.notion.so/Hyunmin-Lee-1436d2f4b6a848a5896f6600b3892dc1"><img width="50px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/193751823-1e7664bb-99e8-45d8-88a1-9f42303690ff.png"></a>
+  <a href="https://www.notion.so/Hyunmin-Lee-1436d2f4b6a848a5896f6600b3892dc1"><img width="100px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/193751823-1e7664bb-99e8-45d8-88a1-9f42303690ff.png"></a>
 
 ---
 </p>
