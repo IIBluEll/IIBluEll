@@ -2,25 +2,26 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:8FCCBA,100:B8D0C5&height=250&section=header&text=Lee%20Hyun%20Min&fontSize=120&animation=twinkling&fontColor=ceec90)
   
-<img src="https://user-images.githubusercontent.com/19919570/194770065-7c794bb9-cdde-4eef-b6c3-1a2707eee640.jpg" width="850px" height="850px">
-
-<br/>
+<div> <img src = https://user-images.githubusercontent.com/19919570/196737735-8cfcd5c6-69f6-434f-a455-e8cedf686f2d.gif style="width: 1100px; height: 500px;"> </div>
 
 <p align="center">
+
+---
+<br/>
   <a href="https://github.com/IIBluEll"><img width="50px" alt="GitHub" title="GitHub Blog" src="https://user-images.githubusercontent.com/87287709/193750506-21b7d99b-431f-4e19-bb08-558fa65a0ce8.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:hmlee4135@naver.com"><img width="50px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/193750295-b367eb8a-8306-4357-82fb-c814a80a10ae.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.notion.so/Hyunmin-Lee-1436d2f4b6a848a5896f6600b3892dc1"><img width="50px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/193751823-1e7664bb-99e8-45d8-88a1-9f42303690ff.png"></a>
 
-
+---
 </p>
 
 <br/>
 
 __Hi! My name is Hyun Min Lee__ <br/>
 __I am dreaming of becoming game developer__ <br/>
-__through Unity and Unreal Engine skills.__ <br/>
+__through Unity and Unreal Engine skills.__ <br/><br/>
   
   ![GitProfile](https://user-images.githubusercontent.com/19919570/183016384-17fa8e59-6240-47d1-97cf-8809fbdb607b.png)
   ---
