@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:8FCCBA,100:B8D0C5&height=250&section=header&text=Lee%20Hyun%20Min&fontSize=120&animation=twinkling&fontColor=ceec90)
   
-<div> <img src = https://user-images.githubusercontent.com/19919570/196737735-8cfcd5c6-69f6-434f-a455-e8cedf686f2d.gif style="width: 1100px; height: 500px;"> </div>
+<div> <img src = https://user-images.githubusercontent.com/19919570/223028531-7941e03f-d640-44d8-a68c-0c8e8f87b348.gif style="width: 850px; height: 600px;"> </div>
 
 <p align="center">
 
