@@ -88,7 +88,7 @@ __Youtube Link__<br/><br/>
 <br/>
 
 
-<details open>
+<details >
 <summary>5. AR Educational Game [Jack&BeanStalk]</summary>
 <div markdown="1">
 
