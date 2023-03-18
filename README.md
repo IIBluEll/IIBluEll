@@ -2,7 +2,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=Soft&color=0:8FCCBA,100:B8D0C5&height=250&section=header&text=Lee%20Hyun%20Min&fontSize=120&animation=twinkling&fontColor=ceec90) -->
   
-<div> <img src = https://user-images.githubusercontent.com/19919570/223028909-fc7588c9-75d1-4173-8947-1259c5cc3fff.gif style="width: 850px; height: 600px;"> </div>
+<div> <img src = https://user-images.githubusercontent.com/19919570/223028909-fc7588c9-75d1-4173-8947-1259c5cc3fff.gif style="width: 750px; height: 400px;"> </div>
 
 <p align="center">
 
@@ -36,7 +36,6 @@ __through Unity and Unreal Engine skills.__ <br/>
  <br/>🔼<br/>
 __Youtube Link__<br/><br/>
  [Github Page](https://github.com/Team5DD)
- 
 ---
 </div>
 </details>
