@@ -16,12 +16,16 @@
 
 </p>
 
-<br/>
+ <br/>__🖐안녕하세요!__ <br>
+ <u>__커뮤니케이션에 자신 있는</u> 개발자__
+ __이현민입니다.__<br><br>
 
-__Hi! My name is Hyun Min Lee__ <br/>
-__I am dreaming of becoming game developer__ <br/>
-__through Unity and Unreal Engine skills.__ <br/>
-  
+ __저만의 강점은 이렇습니다__<br><br/>
+ __1. 공감과 이해를 바탕으로 최고의 커뮤니케이션__<br>
+ __2. 신중한 결정과 이를 후회하지 않는 결단력__
+<br/><br/>
+
+
 ---
 ## My Representative Portfolio
 
