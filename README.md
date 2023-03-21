@@ -17,9 +17,9 @@
 
 <br>
 
-<span style="color:#A4CEC0; font-size:2.5em">__🖐안녕하세요!__ </span><br>
-<span style="color:#ffffff; font-size:2.5em">__커뮤니케이션에 자신 있는 개발자__ </span>
-<span style="color:#A4CEC0; font-size:2.5em">__이현민입니다.__ </span> <br/><br/>
+<span style="color:#A4CEC0; font-size:2.5em">🖐안녕하세요! </span><br>
+<span style="color:#ffffff; font-size:2.5em">커뮤니케이션에 자신 있는 개발자 </span>
+<span style="color:#A4CEC0; font-size:2.5em">이현민입니다. </span> <br/><br/>
 
 <hr style="border-top: 1px solid #A4CEC0;">
 
@@ -41,9 +41,9 @@ __👇 Youtube Link 👇__
 <div markdown="1">
 
 [![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs) <br>
-<span style="color:#A4CEC0; font-size:5em">__🧾프로젝트 설명__ </span><br>
-<span style="color:#ffffff; font-size:3em">샌드박스에서 주최한 ‘천하제일 금손 대회’에 참여하기 위해 </span><br>
-<span style="color:#ffffff; font-size:3em"> NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다. </span> <br><br>
+<span style="color:#A4CEC0; font-size:2em">__🧾프로젝트 설명__ </span><br>
+<span style="color:#ffffff; font-size:1em">샌드박스에서 주최한 ‘천하제일 금손 대회’에 참여하기 위해 </span><br>
+<span style="color:#ffffff; font-size:1em"> NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다. </span> <br><br>
  [👉 Our team's GitHub page Link 👈](https://github.com/Team5DD)
 ---
 </div>
