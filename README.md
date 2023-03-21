@@ -14,9 +14,8 @@
   <a href="https://www.notion.so/Hyunmin-Lee-1436d2f4b6a848a5896f6600b3892dc1"><img width="100px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/193751823-1e7664bb-99e8-45d8-88a1-9f42303690ff.png"></a>
 
 
-</p>
 
-<div markdown="1">
+<br>
 
 <span style="color:#A4CEC0; font-size:2.5em">__🖐안녕하세요!__ </span><br>
 <span style="color:#ffffff; font-size:2.5em">__커뮤니케이션에 자신 있는 개발자__ </span>
@@ -30,7 +29,6 @@
 
  <hr style="border-top: 1px solid #A4CEC0;"> <br>
 
-</div>
 
 ## My Representative Portfolio
 
