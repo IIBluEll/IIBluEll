@@ -40,7 +40,7 @@ __👇 Youtube Link 👇__
 [![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs) <br>
 <span style="color:#A4CEC0; font-size:1.5em">__🧾프로젝트 설명__ </span><br>
 <span style="color:#ffffff; font-size:1.15em">__샌드박스에서 주최한 ‘천하제일 금손 대회’에 참여하기 위해__ </span><br>
-<span style="color:#ffffff; font-size:1.15em"> __NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다.__ </span> <br>
+<span style="color:#ffffff; font-size:1.15em"> __NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다.__ </span> <br><br>
  [👉 Our team's GitHub page Link 👈](https://github.com/Team5DD)
 ---
 </div>
