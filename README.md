@@ -27,8 +27,8 @@
 <span style="color:#ffffff; font-size:1.5em">__2. 신중한 결정과 이를 후회하지 않는 결단력__</span><br/>
 <br><br>
 
-<span style="color:#ffffff; font-size:1.5em">__My Representative Portfolio__</span>
-<br/><br/>
+## My Representative Portfolio
+<br/>
 
 <details open>
 <summary>1. MetatoyDragonz Adventure</summary><br>
@@ -40,8 +40,8 @@ __👇 Youtube Link 👇__
 
 <span style="color:#A4CEC0; font-size:2em">__🧾프로젝트 설명__ </span><br>
 <span style="color:#ffffff; font-size:1em">샌드박스에서 주최한 ‘천하제일 금손 대회’에 참여하기 위해 </span><br>
-<span style="color:#ffffff; font-size:1em"> NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다. </span> 
-<br><br>
+<span style="color:#ffffff; font-size:1em"> NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다. </span> <br><br>
+
  [👉 Our team's GitHub page Link 👈](https://github.com/Team5DD)
 ---
 </div>
