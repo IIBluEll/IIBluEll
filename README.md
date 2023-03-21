@@ -32,14 +32,16 @@
 <br/>
 
 <details open>
-<summary>1. MetatoyDragonz Adventure</summary>
+<summary>1. MetatoyDragonz Adventure</summary><br>
 
+__👇 Youtube Link 👇__
 <div markdown="1">
 
-[![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs) 
- <br/>🔼<br/>
-__Youtube Link__<br/><br/>
- [Github Page](https://github.com/Team5DD)
+[![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs) <br>
+<span style="color:#A4CEC0; font-size:1.5em">__🧾프로젝트 설명__ </span><br>
+<span style="color:#ffffff; font-size:1.15em">__샌드박스에서 주최한 ‘천하제일 금손 대회’에 참여하기 위해__ </span><br>
+<span style="color:#ffffff; font-size:1.15em"> __NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다.__ </span> <br>
+ - <a href="(https://github.com/Team5DD)" style="font-size: 2.0em; color: #50BCDF;">👉 <u>Our team's GitHub page Link</u> 👈</a><br><br>
 ---
 </div>
 </details>
