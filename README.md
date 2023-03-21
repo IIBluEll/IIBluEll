@@ -19,14 +19,12 @@
 
 <span style="color:#A4CEC0; font-size:2.5em">__🖐안녕하세요!__ </span><br>
 <span style="color:#ffffff; font-size:2.5em">__커뮤니케이션에 자신 있는 개발자__ </span>
-<span style="color:#A4CEC0; font-size:2.5em">__이현민입니다.__ </span> 
+<span style="color:#A4CEC0; font-size:2.5em">__이현민입니다.__ </span>
 <br><br>
-
 <span style="color:#A4CEC0; font-size:2.5em">__저만의 강점은 이렇습니다__ </span><br/><br/>
 <span style="color:#ffffff; font-size:1.5em">__1. 공감과 이해를 바탕으로 최고의 커뮤니케이션__</span><br/>
 <span style="color:#ffffff; font-size:1.5em">__2. 신중한 결정과 이를 후회하지 않는 결단력__</span>
 <br><br>
-
 ## My Representative Portfolio
 <br/>
 
