@@ -44,7 +44,7 @@ __👇 Youtube Link 👇__
 <span style="color:#ffffff; font-size:1em">샌드박스에서 주최한 ‘천하제일 금손 대회’에 참여하기 위해 </span><br>
 <span style="color:#ffffff; font-size:1em"> NFT 캐릭터를 기반으로 한 2D 로그라이크 슈팅이며 용손으로 입상한 게임입니다. </span> <br><br>
 
- [👉 Our team's GitHub page Link 👈](https://github.com/Team5DD)
+ [👉 Our team's GitHub page Link 👈](https://github.com/Team5DD)<br><br>
 ---
 </div>
 </details>
@@ -66,7 +66,7 @@ __👇 Youtube Link 👇__
 <span style="color:#ffffff; font-size:1.15em"> __몰입감을 극대화한 힐링 게임을 개발했습니다.__ </span>
 <br><br>
 
- [👉 Our team's GitHub page Link 👈](https://github.com/TeamTreeBox)
+ [👉 Our team's GitHub page Link 👈](https://github.com/TeamTreeBox)<br><br>
  ---
 </div>
 </details>
@@ -87,7 +87,7 @@ __👇 Youtube Link 👇__
 <span style="color:#ffffff; font-size:1.15em">__Photon을 사용하여, 멀티 플레이가 가능한__ </span><br>
 <span style="color:#ffffff; font-size:1.15em">__크레이지 아케이드 모작을 개발했습니다.__ </span><br>
 
- [👉 Our team's GitHub page Link 👈](https://github.com/IIBluEll/CrazArade)
+ [👉 Our team's GitHub page Link 👈](https://github.com/IIBluEll/CrazArade)<br><br>
  ---
 </div>
 </details>
@@ -107,7 +107,7 @@ __👇 Youtube Link 👇__
 <span style="color:#A4CEC0; font-size:1.5em">__🧾프로젝트 설명__ </span><br>
 <span style="color:#ffffff; font-size:1.15em">__VR의 장점인 몰입감을 이용하여 공포심을 극대화한 공포게임을 개발했습니다.__ </span><br>
 
-[👉 Our team's GitHub page Link 👈](https://github.com/VRProjectHorror/VR_HorrorGame_Graduation)
+[👉 Our team's GitHub page Link 👈](https://github.com/VRProjectHorror/VR_HorrorGame_Graduation)<br><br>
  ---
 </div>
 </details>
@@ -127,7 +127,7 @@ __👇 Youtube Link 👇__
 <span style="color:#A4CEC0; font-size:1.5em">__🧾프로젝트 설명__ </span><br>
 <span style="color:#ffffff; font-size:1.15em">__유니티 AR를 활용한 아동 교육용 게임을 개발했습니다.__ </span><br>
 
-[👉 Our team's GitHub page Link 👈](https://github.com/BeanPocket/AR_Jack_beanstalk)
+[👉 Our team's GitHub page Link 👈](https://github.com/BeanPocket/AR_Jack_beanstalk)<br><br>
  ---
 </div>
 </details>
