@@ -19,7 +19,7 @@
 <div markdown="1">
 
 <span style="color:#A4CEC0; font-size:2.5em">__🖐안녕하세요!__ </span><br>
-<span style="color:#ffffff; font-size:2.5em"><u>__커뮤니케이션에 자신 있는</u> 개발자__ </span>
+<span style="color:#ffffff; font-size:2.5em">__커뮤니케이션에 자신 있는 개발자__ </span>
 <span style="color:#A4CEC0; font-size:2.5em">__이현민입니다.__ </span> <br/><br/>
 
 <hr style="border-top: 1px solid #A4CEC0;">
