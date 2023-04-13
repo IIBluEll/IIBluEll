@@ -32,7 +32,25 @@
 <br/>
 
 <details open>
-<summary>1. MetatoyDragonz Adventure</summary><br>
+<summary>1. MTDZ Code Refactoring </summary><br>
+<br>
+
+__👇 Youtube Link 👇__
+<div markdown="1">
+
+[![Video Label](http://img.youtube.com/vi/Et_NBJbYsxM/0.jpg)](https://youtu.be/Et_NBJbYsxM) <br>
+
+<span style="color:#A4CEC0; font-size:2em">__🧾프로젝트 설명__ </span><br>
+<span style="color:#ffffff; font-size:1em"> 제작 당시 코드가 마음에 들지 않아 </span><br>
+<span style="color:#ffffff; font-size:1em"> NFT 제가 작업했던 코드들을 개선했습니다. </span> <br><br>
+
+ [👉 Code Collection Github Link 👈](https://github.com/IIBluEll/MetaToyDragonz_Refactoring_CodeCollection)<br><br>
+ [👉 All Project Github Link 👈](https://github.com/IIBluEll/MetaToy_Refactoring)<br><br>
+---
+
+
+<details open>
+<summary>2. MetatoyDragonz Adventure</summary><br>
 <br>
 
 __👇 Youtube Link 👇__
@@ -53,7 +71,7 @@ __👇 Youtube Link 👇__
 
 
 <details open>
-<summary>2. EverBreeze</summary>
+<summary>3. EverBreeze</summary>
 <br>
 
 __👇 Youtube Link 👇__
@@ -75,7 +93,7 @@ __👇 Youtube Link 👇__
 
 
 <details open>
-<summary>3. TerzilRang_Mallang</summary>
+<summary>4. TerzilRang_Mallang</summary>
 <br>
 
 __👇 Youtube Link 👇__
@@ -96,7 +114,7 @@ __👇 Youtube Link 👇__
 
 
 <details open>
-<summary>4. VR_Horro Game [Graduation]</summary>
+<summary>5. VR_Horro Game [Graduation]</summary>
 <br>
 
 __👇 Youtube Link 👇__
@@ -116,7 +134,7 @@ __👇 Youtube Link 👇__
 
 
 <details >
-<summary>5. AR Educational Game [Jack&BeanStalk]</summary>
+<summary>6. AR Educational Game [Jack&BeanStalk]</summary>
 <br>
 
 __👇 Youtube Link 👇__
