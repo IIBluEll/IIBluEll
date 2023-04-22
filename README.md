@@ -41,11 +41,13 @@ __👇 Youtube Link 👇__
 [![Video Label](http://img.youtube.com/vi/Et_NBJbYsxM/0.jpg)](https://youtu.be/Et_NBJbYsxM) <br>
 
 <span style="color:#A4CEC0; font-size:2em">__🧾프로젝트 설명__ </span><br>
-<span style="color:#ffffff; font-size:1em"> 제작 당시 코드가 마음에 들지 않아 </span><br>
-<span style="color:#ffffff; font-size:1em"> NFT 제가 작업했던 코드들을 개선했습니다. </span> <br><br>
+<span style="color:#ffffff; font-size:1em"> 샌드박스에서 주최했던 공모전에 참가했던 작품이며 </span><br>
+<span style="color:#ffffff; font-size:1em"> 당시 급한 일정으로 인해 코드가 난잡해져 </span> <br><br>
+ <span style="color:#ffffff; font-size:1em"> 제가 작업했던 부분을 개선하고자 했습니다. </span> <br><br>
 
  [👉 Code Collection Github Link 👈](https://github.com/IIBluEll/MetaToyDragonz_Refactoring_CodeCollection)<br><br>
  [👉 All Project Github Link 👈](https://github.com/IIBluEll/MetaToy_Refactoring)<br><br>
+ [👉 Download this Project 👈](https://github.com/IIBluEll/MetaToy_Refactoring/releases/tag/MTDZ_Re)<br><br>
 ---
 
 
