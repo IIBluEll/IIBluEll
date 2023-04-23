@@ -38,7 +38,7 @@
 __👇 Youtube Link 👇__
 <div markdown="1">
 
-[![Video Label](http://img.youtube.com/vi/Et_NBJbYsxM/0.jpg)](https://youtu.be/Et_NBJbYsxM) <br>
+[![Video Label](https://user-images.githubusercontent.com/19919570/233820432-6f497b58-a6bb-4735-bba5-7829d8f50580.png)](https://www.youtube.com/watch?v=57-Z9Yx9iOQ) <br>
 
 <span style="color:#A4CEC0; font-size:2em">__🧾프로젝트 설명__ </span><br>
 <span style="color:#ffffff; font-size:1em"> 샌드박스에서 주최했던 공모전에 참가했던 작품이며 </span><br>
